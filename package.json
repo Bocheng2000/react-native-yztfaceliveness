@@ -11,13 +11,13 @@
     "react-native",
     "yzt"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:chuchengbo/react-native-yztfaceliveness.git"
-  },
   "author": {
     "name": "chuchengbo",
     "email": "780178977@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chuchengbo/react-native-yztfaceliveness.git"
   },
   "license": "",
   "peerDependencies": {
