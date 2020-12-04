@@ -15,11 +15,11 @@
     "name": "chuchengbo",
     "email": "780178977@qq.com"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:chuchengbo/react-native-yztfaceliveness.git"
   },
-  "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
