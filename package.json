@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-yztfaceliveness",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yzt test",
   "main": "index.js",
   "scripts": {
