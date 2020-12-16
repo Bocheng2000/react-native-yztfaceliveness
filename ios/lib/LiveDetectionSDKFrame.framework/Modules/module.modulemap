@@ -1,0 +1,6 @@
+framework module LiveDetectionSDKFrame {
+  umbrella header "LiveDetectionSDKFrame.h"
+
+  export *
+  module * { export * }
+}
